@@ -30,7 +30,8 @@ Description-
                 from sklearn import metrics
                 from sklearn.model_selection import RandomizedSearchCV
                 
- Data sets-1.Train_data 2. Test_data              
+ Data sets-1.Train_data- https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh?select=Data_Train.xlsx 
+           2. Test_data- https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh?select=Test_set.xlsx           
                 
  Kaggle link-https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh           
                 
