@@ -19,10 +19,13 @@ Predictive Modeling
 etc.
 
 Technologies
+
 Python
-Pandas, jupyter
+Pandas
+jupyter
 Numpy
-Matplotlib, Seaborn
+Matplotlib
+Seaborn
 Datetime
 One Hot Encoding
 Label Encoding
