@@ -6,7 +6,7 @@ The purpose of this project is to build Machine Learning model that can assist a
 
 ### Methods Used
 
-Data Preprocessing
+* Data Preprocessing
 
 Data Cleaning
 
