@@ -1,10 +1,10 @@
-#### Flight-Price-Prediction
+# Flight-Price-Prediction
 
 ## Project Intro/Objective
 
 The purpose of this project is to build Machine Learning model that can assist airlines to keep their rates.
 
-# Methods Used
+### Methods Used
 
 Data Preprocessing
 
