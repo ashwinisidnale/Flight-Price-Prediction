@@ -19,7 +19,7 @@ Data Visualization
 Predictive Modeling
 etc.
 
-Technologies
+### Technologies
 
 Python
 Pandas
@@ -34,12 +34,12 @@ Hyper-parameter Tuning
 RandomizedSearchCV
 etc.
 
-Project Description
+### Project Description
 
 This project is about Predicting Flight Prices using Regression techniques to find Mean Absolute Error, Mean squared Error, Root mean Squared Error and r2 score. I have used Extra tree regressor for Feature Selection and Random Forest regressor to fit the model and do predictions. Data source is Kaggle Dataset https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh. 
 In this project, Data Preprocessing and data cleaning is a major challenge. The visualization plots helped in checking assumptions for Regression Technique.
 
-Needs of this project
+### Needs of this project
 
 data exploration/descriptive statistics
 data processing/cleaning
@@ -51,7 +51,7 @@ etc.
 
 
          
- Kaggle link-https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh           
+ #### Kaggle link-https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh           
                 
- Credits -
+ #### Credits -
           to Kaggle and to Krish Naik For providing wonderful videos on youtube.
