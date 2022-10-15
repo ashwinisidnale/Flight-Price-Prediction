@@ -42,8 +42,11 @@ In this project, Data Preprocessing and data cleaning is a major challenge. The 
 ### Needs of this project
 
 data exploration/descriptive statistics
+
 data processing/cleaning
+
 statistical modeling
+
 writeup/reporting
 etc.
 
@@ -51,7 +54,6 @@ etc.
 
 
          
- #### Kaggle link-https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh           
+ #### Kaggle link - https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh           
                 
- #### Credits -
-          to Kaggle and to Krish Naik For providing wonderful videos on youtube.
+ #### Credits - to Kaggle and to Krish Naik For providing wonderful videos on youtube.
